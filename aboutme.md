@@ -19,7 +19,7 @@ While patents are useful defensively and can serve as a lawsuit deterrent, misgu
 <div id="left" markdown="1">
 
 ### How COPA Works
-
+</div>
 <div id="right" markdown="1">
 COPA provides an open patent strategy to address these concerns. Anyone can join and benefit from COPA, regardless of whether they have patents or not. There is no barrier to entry – members can be individuals, start-ups, small companies, or large corporations. This is how COPA works:
 
@@ -33,16 +33,16 @@ The patent pledge and the shared patent library will work in tandem to help driv
 
 </div>
 </div>
-</div>
+
 <div class="distinctsection" markdown="1">
 <div id="left" markdown="1">
   
 ### COPA Leadership
-
+</div>
 <div id="right" markdown="1">
 COPA will be governed by a board of nine members – three members from the crypto and open source community who work towards making crypto better and available for everyone, and six members from member companies. We will appoint board members based on interest level and diversification in terms of technology, company size, etc.
 
-</div>
+
 </div>
 </div>
 
