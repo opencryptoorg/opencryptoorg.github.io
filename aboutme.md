@@ -15,8 +15,9 @@ Locking up foundational cryptocurrency technologies in patents stifles innovatio
 2/
 While patents are useful defensively and can serve as a lawsuit deterrent, misguided and offensive use of patents by bad actors threatens the growth and free availability of cryptocurrency technologies. Many crypto companies do not own patents and are unable to adequately deter or defend against these bad actors.
 
+<div class="distinctsection" markdown="1">
+
 ### How COPA Works
-{: .seclead }
 
 COPA provides an open patent strategy to address these concerns. Anyone can join and benefit from COPA, regardless of whether they have patents or not. There is no barrier to entry – members can be individuals, start-ups, small companies, or large corporations. This is how COPA works:
 
@@ -28,7 +29,8 @@ Second, members pool all of their crypto-technology patents together to form a s
 
 The patent pledge and the shared patent library will work in tandem to help drive down the incidence and threat of patent litigation, benefiting the cryptocurrency community as a whole. The patent pledge removes the threat of patents from being used offensively in litigation, while the shared patent library operates as a shield for COPA members to use against patent aggressors.
 
-<div class="distinctsection" markdown=”1”>
+</div>
+<div class="distinctsection" markdown="1">
   
 ### COPA Leadership
 
