@@ -28,13 +28,13 @@ Second, members pool all of their crypto-technology patents together to form a s
 
 The patent pledge and the shared patent library will work in tandem to help drive down the incidence and threat of patent litigation, benefiting the cryptocurrency community as a whole. The patent pledge removes the threat of patents from being used offensively in litigation, while the shared patent library operates as a shield for COPA members to use against patent aggressors.
 
-{: .seclead }
+<div class="seclead">
 ### COPA Leadership
 
 
 
 COPA will be governed by a board of nine members – three members from the crypto and open source community who work towards making crypto better and available for everyone, and six members from member companies. We will appoint board members based on interest level and diversification in terms of technology, company size, etc.
-{:/ .seclead }
+</div>
 
 ### COPA Membership Fees
 {: .seclead }
