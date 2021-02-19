@@ -28,13 +28,18 @@ Second, members pool all of their crypto-technology patents together to form a s
 
 The patent pledge and the shared patent library will work in tandem to help drive down the incidence and threat of patent litigation, benefiting the cryptocurrency community as a whole. The patent pledge removes the threat of patents from being used offensively in litigation, while the shared patent library operates as a shield for COPA members to use against patent aggressors.
 
+{% capture section1 %}
 ### COPA Leadership
 {: .seclead }
 
+
 COPA will be governed by a board of nine members – three members from the crypto and open source community who work towards making crypto better and available for everyone, and six members from member companies. We will appoint board members based on interest level and diversification in terms of technology, company size, etc.
 
+{% endcapture %}
+{% capture section2 %}
 ### COPA Membership Fees
 {: .seclead }
+
 
 Square will help get COPA established and assume the onboarding and operating expenses for the first year of operation. After the first year, membership fees will be based on annual revenue of the member company as follows:
 TABLE
@@ -45,3 +50,4 @@ $25M - $50M	$10,000
 $50M - $100M	$15,000
 >$100M	$20,000
 TABLE
+{% endcapture %}
