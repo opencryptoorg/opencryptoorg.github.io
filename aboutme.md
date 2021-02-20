@@ -3,7 +3,6 @@ layout: about
 title: About
 ---
 
-<div class="container" markdown="1">
 <!--- All inline html tags are used to make the bootstrap column layout. -->
 <div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
@@ -77,6 +76,4 @@ $50M - $100M	$15,000
 TABLE
 
 </div>
-</div>
-
 </div>
