@@ -46,7 +46,8 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 
-.about-big-text h4 {
+/* Orange text on left column of about page */
+.about-big-text h3 {
     font-family: 'Work Sans', sans-serif;
     font-weight: 500;
     font-size: 32px;
