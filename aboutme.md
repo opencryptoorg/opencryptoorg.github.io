@@ -29,7 +29,7 @@ While patents are useful defensively and can serve as a lawsuit deterrent, misgu
 
 </div>
 
-<div class="row" markdown="1">
+<div class="row top-buffer" markdown="1">
 <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"></div>
 <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 about-big-text" markdown="1">
   
