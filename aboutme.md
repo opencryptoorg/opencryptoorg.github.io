@@ -33,7 +33,7 @@ While patents are useful defensively and can serve as a lawsuit deterrent, misgu
 <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"></div>
 <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 about-big-text" markdown="1">
   
-### How COPA <br></br> Works
+### How COPA<br>Works
 </div>
 <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text" markdown="1">
 COPA provides an open patent strategy to address these concerns. Anyone can join and benefit from COPA, regardless of whether they have patents or not. There is no barrier to entry – members can be individuals, start-ups, small companies, or large corporations. This is how COPA works:
