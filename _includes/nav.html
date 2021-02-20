@@ -1,4 +1,5 @@
-<nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
+<nav class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar header--row data-row-id="main" data-show-on="desktop">
+<div class="header--row-inner header-main-inner">
 <div class ="container">
   <div class="builder-item hfg-item-first col-4 col-md-4 col-sm-4 hfg-item-left">
   {%- if site.title-img -%}
@@ -16,6 +17,7 @@
 
   <div class="builder-item hfg-item-last col-8 col-md-8 col-sm-8 hfg-item-right">
   <div class="collapse navbar-collapse" id="main-navbar">
+  <div role="navigation" class="style-plain nav-menu-primary" aria-label="Primary Menu">
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
@@ -57,5 +59,5 @@
     </div>
   {% endif %}
 <div class ="container">
-
+</div>
 </nav>
