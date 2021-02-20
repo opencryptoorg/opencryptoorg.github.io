@@ -10,6 +10,7 @@ title: About
 IMAGE
 </div>
 <div class="col-md-8" markdown="1">
+
 ### About COPA
 </div>
 </div>
@@ -31,6 +32,7 @@ While patents are useful defensively and can serve as a lawsuit deterrent, misgu
 
 <div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
+
 ### How COPA Works
 </div>
 <div class="col-md-8" markdown="1">
@@ -49,6 +51,7 @@ The patent pledge and the shared patent library will work in tandem to help driv
   
 <div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
+
 ### COPA Leadership
 </div>
 <div class="col-md-8" markdown="1">
@@ -59,6 +62,7 @@ COPA will be governed by a board of nine members – three members from the cryp
 
 <div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
+
 ### COPA Membership Fees
 </div>
 <div class="col-md-8" markdown="1">
