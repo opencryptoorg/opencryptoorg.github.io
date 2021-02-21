@@ -1,0 +1,37 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <div class="container" role="main">
+      Loaded FAQ LAYOUT. <br>
+      {% for panel in page.accordion %}
+      <ul>
+      {{ panel.title }}
+      <li>
+      {{ panel.content }}
+      </li>
+      </ul>
+      
+      {% endfor %
+      </div>
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% include comments.html %}
+
