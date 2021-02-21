@@ -13,7 +13,10 @@ layout: base
         </div>
       {% endif %}
       <div class="container" role="main">
-      Loaded FAQ LAYOUT. <br>
+      <div class="row" markdown="1">
+      <div class="col-md-4" markdown="1">
+      </div>
+      <div class="col-md-8" markdown="1">
       {% for panel in page.accordion %}
       <ul>
       {{ panel.title }}
@@ -22,6 +25,7 @@ layout: base
       </li>
       </ul>
       {% endfor %}
+      </div>
       </div>
 
       {% if page.after-content %}
