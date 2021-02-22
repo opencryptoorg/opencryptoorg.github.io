@@ -1,20 +1,15 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
-<div class ="container">
-  <div class="builder-item hfg-item-first col-4 col-md-4 col-sm-4 hfg-item-left">
+
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
-  
-  
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  </div>
 
-  <div class="builder-item hfg-item-last col-8 col-md-8 col-sm-8 hfg-item-right">
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
@@ -37,9 +32,6 @@
       {%- endfor -%}
     </ul>
   </div>
-  </div>
-    
-    
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
@@ -56,6 +48,5 @@
       </div>
     </div>
   {% endif %}
-<div class ="container">
 
 </nav>
