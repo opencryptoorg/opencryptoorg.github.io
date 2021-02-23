@@ -19,25 +19,24 @@ layout: base
 
 <div class="container" role="main">
             <div class="row top-buffer">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                   <img src="https://opencrypto.org/wp-content/themes/neve-child/images/FAQ.svg" class="img-responsive copa-logo">
-            </div>
-            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 faq-text">
-                  <h2>ABOUT <br> COPA </h2>
-            </div>
-            </div>
-    
-               <div class="row top-buffer">
-                  {% for panel in page.accordion %}
-                  <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"> </div>
-                  <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 big-text">
-                  {{ panel.title }}
                   </div>
-                  <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 text">
-                  {{ panel.content }}
+                   <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 faq-text">
+                  <h2>ABOUT <br> COPA </h2>
+                  </div>
+            </div>
+                  {% for panel in page.accordion %}
+                  <div class="row top-buffer">
+                      <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"> </div>
+                      <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 big-text">
+                      {{ panel.title }}
+                      </div>
+                      <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 text">
+                      {{ panel.content }}
+                      </div>
                   </div>
                   {% endfor %}
-               </div>
 </div>       
 
       {% if page.after-content %}
