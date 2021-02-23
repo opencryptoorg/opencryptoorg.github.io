@@ -1,6 +1,6 @@
 ---
 layout: 2col
-title: FAQ
+title: Zabout
 accordion:
   - title: 
   - title: this is item 1
