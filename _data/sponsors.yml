@@ -1,0 +1,12 @@
+## When putting either quotes or exposition into the same types of
+## slots, ensure quotations are displayed surrounded by quotes marks to
+## differentiate the two types of information
+members:
+  -
+    name: bitbank
+    website: https://bitbank.cc/en/
+    logo: bitbank.png
+  -
+    name: Kraken
+    website: https://twitter.com/krakenfx
+    logo: kraken.png
