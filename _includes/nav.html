@@ -30,13 +30,12 @@
       {%- endfor -%}
     </ul>
   </div>
-  </div>
-  
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#secondnav" aria-controls="secondnav" aria-expanded="false" aria-label="Toggle navigation">
+   <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#secondnav" aria-controls="secondnav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-
+  </div>
+  
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
       {% include {{ file }} %}
