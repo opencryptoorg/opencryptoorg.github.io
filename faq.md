@@ -1,5 +1,5 @@
 ---
-layout: faq
+layout: 2col
 title: FAQ
 accordion:
   - title: What is COPA?
