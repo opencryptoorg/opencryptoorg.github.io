@@ -8,20 +8,18 @@
   </div>
   
 <div class="builder-item hfg-item-last col-8 col-md-8 col-sm-8 hfg-item-right">
-  <div class="collapse navbar-collapse float-left" id="main-navbar">
     <ul class="navbar-nav ml-auto flex-row">
      <div class="linx">
       {%- for link in site.navbar-links -%}
          <div class="col-md-3">
           <li class="nav-item">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
-         </div>
           </li>
+         </div>
         {%- endif -%}
       {%- endfor -%}
       </div>
     </ul>
-  </div>
       <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#secondnav" aria-controls="secondnav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
