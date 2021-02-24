@@ -221,13 +221,22 @@ img {
 }
 
 @media (max-width: 959px) {
-    .navbar-custom .navbar-brand-logo img {
+  .navbar-custom .navbar-brand-logo img {
     max-width: 120px;
     max-height:25.7px;
+  }
+  .navbar-custom .navbar-toggler {
+    display:flex;
+  }
+  .navbar-custom .navbar-nav{
+     display:none;
   }
 }
 
 @media (min-width: 960px) {
+  .navbar-custom .navbar-toggler{
+    display:none;
+  }
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
