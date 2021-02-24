@@ -33,10 +33,8 @@ layout: base
                       <p>
                       {{ panel.content }}
                           {% if panel.table %}
-			      {% for r in panel.table %}
-			      {% r.right %}
-			      {% r.left %}
-			      {% endfor %}
+			      {% assign t = panel.table %}
+			      {{% t %}}
 			  
                           <table class="feeTable" id="feeTableId" border="1px solid red">
                            <thead>
