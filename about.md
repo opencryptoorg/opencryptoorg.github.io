@@ -17,20 +17,23 @@ accordion:
               1/
               Locking up foundational cryptocurrency technologies in patents stifles innovation and the adoption of these technologies in new and improved
               applications.
-   - title:
-    content: > 
-              2/
-              While patents are useful defensively and can serve as a lawsuit deterrent, misguided and offensive use of patents by bad actors threatens the growth  
-              and free availability of cryptocurrency technologies. Many crypto companies do not own patents and are unable to adequately deter or defend against 
-              these bad actors.
-  - title: How COPA <br> Works
-    content: > 
-             COPA provides an open patent strategy to address these concerns. Anyone can join and benefit from COPA, regardless of whether they have patents or not.
-             There is no barrier to entry – members can be individuals, start-ups, small companies, or large corporations. This is how COPA works:
   - title:
     content: > 
-             First, COPA members pledge never to use their crypto-technology patents against anyone, except for defensive reasons, effectively making their patents
-             freely available for all to use.    
+              2/
+              While patents are useful defensively and can serve as a lawsuit deterrent, misguided and offensive use of patents by bad actors threatens the growth
+              and free availability of cryptocurrency technologies. Many crypto companies do not own patents and are unable to adequately deter or defend against 
+              these bad actors.
+              
+  - title: How COPA <br> Works
+    content: > 
+             COPA provides an open patent strategy to address these concerns. Anyone can join and benefit from COPA, regardless of whether they have patents or 
+             not. There is no barrier to entry – members can be individuals, start-ups, small companies, or large corporations. This is how COPA works:
+             
+  - title:
+    content: > 
+             First, COPA members pledge never to use their crypto-technology patents against anyone, except for defensive reasons, effectively making their 
+             patents freely available for all to use.   
+             
   - title:
     content: > 
               Second, members pool all of their crypto-technology patents together to form a shared patent library. This collective shield of patents provides 
@@ -59,5 +62,6 @@ accordion:
       -row:
          - left: 2
          - right: $2
+
 ---
 
