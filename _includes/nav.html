@@ -9,25 +9,17 @@
   
 <div class="builder-item hfg-item-last col-8 col-md-8 col-sm-8 hfg-item-right">
   <div class="collapse navbar-collapse float-left" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav ml-auto flex-row">
+     <div class="linx">
       {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
-        {% else %}
+         <div class="col-md-3">
           <li class="nav-item">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+         </div>
           </li>
         {%- endif -%}
       {%- endfor -%}
+      </div>
     </ul>
   </div>
       <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#secondnav" aria-controls="secondnav" aria-expanded="false" aria-label="Toggle navigation">
