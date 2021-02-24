@@ -41,4 +41,22 @@ accordion:
 
         <BR/><BR/>COPA seeks to transform how patents are viewed and used – from potentially disruptive weapons to 
         tools that aid in breaking barriers to the innovation and advancement of cryptocurrency technology.
+        
+  - title: What is the need for COPA? How do we address those needs?
+    content: >
+          How does COPA benefit individuals and small companies vs. larger companies?
+          There is no barrier to entry – any individual, small company, or large corporation can enroll as members. 
+          Every member benefits from the patent pledge – by removing patents as an offensive threat, and consequently 
+          removing the stigma around patents, crypto companies can now put patents to work to protect the community – 
+          to defend against patent aggressors and protect their technology from patent trolls.
+          
+          <br/><br/>The shared patent library democratizes patents for everyone in the COPA membership by offering a 
+          collective shield of patents. Individuals and small companies, that often lack access to patents to use defensively 
+          when needed against aggressors, benefit from having access to a potentially large and strong set of COPA’s 
+          collective patents to potentially use. Even outside of actually using the patents defensively, every member, 
+          small or large in size, benefits from the mere fact of having access to the collective shield of patents. 
+          Driving down the incidence of and deterring offensive patent litigation are fundamental objectives of COPA, 
+          and the shared patent library helps do exactly that – in helping deter patent aggressors from suing the members, 
+          regardless of whether they individually own patents or not, because of their ability to access patents from this collective shield.
+           
 ---
