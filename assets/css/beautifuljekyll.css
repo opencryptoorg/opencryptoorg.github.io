@@ -9,6 +9,10 @@ layout: null
   max-width:1170px;
 }
 
+.about-text {
+    padding-left: 35px!important;
+    font-size: 16px;
+}
 
 /* --- General --- */
 
