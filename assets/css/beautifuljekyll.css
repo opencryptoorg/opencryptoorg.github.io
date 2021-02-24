@@ -220,7 +220,14 @@ img {
   border-width: 0.4em;
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 959px) {
+    .navbar-custom .navbar-brand-logo img {
+    max-width: 120px;
+    max-height:25.7px;
+  }
+}
+
+@media (min-width: 960px) {
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
@@ -232,7 +239,11 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 3.125rem;
+    max-width: 280px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-bottom: 10px;
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
