@@ -4,6 +4,12 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* --- Random additions to clean up later --- */
+.container {
+  max-width:1170px;
+}
+
+
 /* --- General --- */
 
 html {
