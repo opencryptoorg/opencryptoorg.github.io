@@ -32,6 +32,25 @@ layout: base
                       <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text">
                       <p>
                       {{ panel.content }}
+                          {% if panel.table %}
+                          <table class="feeTable" id="feeTableId" border="1px solid red">
+                           <thead>
+				             <tr>
+					            <th>Revenue</th>
+					            <th>Membership fees</th>
+			               	 </tr>
+			               </thead>
+                              </tbody>
+                          {% for row in panel.table %}
+                           <tr>
+                               <td> {% row.left %} </td>
+                               <td> {% row.right %} </td>
+                          </tr>
+		                       
+                            {% endfor %}
+                             </tbody>
+                             </table>
+                         {% endif %}
                       </p>
                       </div>
                   </div>
