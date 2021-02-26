@@ -47,6 +47,10 @@ members:
     website: https://twitter.com/OKcoin
     logo: okcoin.png
   -
+    name: Protocol Labs
+    website: https://protocol.ai/
+    logo: protocol.png
+  -
     name: Request
     website: https://request.network/en/
     logo: request.png
@@ -62,3 +66,7 @@ members:
     name: Stacks
     website: https://www.stacks.co/
     logo: stacks.svg
+  -
+    name: Stakenet
+    website: https://stakenet.io/
+    logo: stakenet.png
