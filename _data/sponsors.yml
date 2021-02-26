@@ -3,12 +3,20 @@
 ## differentiate the two types of information
 members:
   -
+    name: Ark
+    website: https://ark.io/
+    logo: arg.svg
+  -
+    name: BitHyve
+    website: https://bithyve.com/
+    logo: https://bithyve.com/
+  -
     name: Blockchain Commons
     website: https://www.blockchaincommons.com/
     logo:
   -
     name: Blockstream
-    website: https://www.blockchaincommons.com/
+    website: https://blockstream.com/
     logo: blockstream.png
   -
     name: bitbank
@@ -23,9 +31,21 @@ members:
     website: https://twitter.com/Coinbase
     logo: coinbase.png
   -
+    name: Kraken
+    website: https://twitter.com/krakenfx
+    logo: kraken.png
+  -
+    name: MercuryCash
+    website: https://www.mercury.cash/
+    logo: mercurycash.png
+  -
     name: OKcoin
     website: https://twitter.com/OKcoin
     logo: okcoin.png
+  -
+    name: Request
+    website: https://request.network/en/
+    logo: request.png
   -
     name: Square
     website: https://twitter.com/Square
@@ -34,7 +54,3 @@ members:
     name: Stacks
     website: https://www.stacks.co/
     logo: stacks.svg
-  -
-    name: Kraken
-    website: https://twitter.com/krakenfx
-    logo: kraken.png
