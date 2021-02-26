@@ -9,7 +9,7 @@
 	<div class="container">
 	
 	{% for member in members %}
-	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-3"></div>', '', '', '' %}
+	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-3"></div>', '', '' %}
 	{% assign logo=member.logo %}
 	{% unless member.logo contains 'https://' %}{% capture logo %}/opencrypto/img/members/{{member.logo}}{% endcapture %}{% endunless %}
 		<div class="col-md-3">	
@@ -17,7 +17,7 @@
 			<a href="{{ member.website }}"><img src="{{ logo }}" width="150" alt="{{ member.name }}" title="{{ member.name }}"></a>
 			</div>
 		</div>
-	{% cycle "closerow": '', '', '', '</div>' %}
+	{% cycle "closerow": '', '', '</div>' %}
 	{% endfor %}
 	</div>
 </div>
