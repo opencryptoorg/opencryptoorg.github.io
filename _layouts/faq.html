@@ -23,12 +23,16 @@ layout: base
                   <h2>Frequently <br> Asked Questions</h2>
            
                   {% for panel in page.accordion %}
-                  <ul>
+                  <div class="faq-entry">
+                  <input type="checkbox">
+                  <p class="label">
                   {{ panel.title }}
-                  <li>
+                      ::after
+                  </p>
+                  <div class="panel">
                   {{ panel.content }}
-                  </li>
-                  </ul>
+                  </div>
+                  </div>
                   {% endfor %}
             </div>
       </div>
