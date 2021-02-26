@@ -5,11 +5,11 @@ members:
   -
     name: Ark
     website: https://ark.io/
-    logo: arg.svg
+    logo: ark.svg
   -
     name: BitHyve
     website: https://bithyve.com/
-    logo: https://bithyve.com/
+    logo: bithyve.png
   -
     name: Blockchain Commons
     website: https://www.blockchaincommons.com/
@@ -46,6 +46,10 @@ members:
     name: Request
     website: https://request.network/en/
     logo: request.png
+  -
+    name: SatoshiLabs
+    website: https://satoshilabs.com/
+    logo: satoshilabs.svg
   -
     name: Square
     website: https://twitter.com/Square
