@@ -5,34 +5,16 @@
 	<h2>Member Companies</h2>
 
 	<p>Copa member companies.</p>
-	<div class="container">
-	<div class="row top-buffer">
-	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"></div>
-	
 
 	<ul class="n-column-list">
 	{% for member in members %}
 	{% assign logo=member.logo %}
-		
 	{% unless member.logo contains 'https://' %}{% capture logo %}/opencrypto/img/members/{{member.logo}}{% endcapture %}{% endunless %}
-	{% if member.logo == blank %}
-	<div class="col-md-3">
-	<li>
-		<div class="member">
-		<a href="{{ member.website }}"> {{ member.name }} </a>
-		</div>
-	</li>
-  	{% else}
 	<li>
 		<div class="member">
 		<a href="{{ member.website }}"><img src="{{ logo }}" width="150" alt="{{ member.name }}" title="{{ member.name }}"></a>
 		</div>
 	</li>
-        
-        {% endif %}
-		</div>
 	{% endfor %}
 	</ul>
-	</div>
-	</div>
 </div>
