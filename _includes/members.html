@@ -14,6 +14,7 @@
 	{% assign spot = forloop.length | modulo:3 %}
 	{% if forloop.last and spot == 2 }
 		<div class="col"> </div>
+	{% endif %}
 	{% unless member.logo contains 'https://' %}{% capture logo %}/opencrypto/img/members/{{member.logo}}{% endcapture %}{% endunless %}
 		{% unless member.logo %}
 		        <div class="col">	
