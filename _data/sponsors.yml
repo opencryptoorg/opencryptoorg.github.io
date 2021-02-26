@@ -3,9 +3,25 @@
 ## differentiate the two types of information
 members:
   -
+    name: Blockchain Commons
+    website: https://www.blockchaincommons.com/
+    logo: 
+  -
     name: bitbank
     website: https://bitbank.cc/en/
     logo: bitbank.png
+  -
+    name: Coinbase
+    website: https://twitter.com/Coinbase
+    logo: coinbase.png
+  -
+    name: OKcoin
+    website: https://twitter.com/OKcoin
+    logo: okcoin.png
+  -
+    name: Square
+    website: https://twitter.com/Square
+    logo: square.png
   -
     name: Kraken
     website: https://twitter.com/krakenfx
