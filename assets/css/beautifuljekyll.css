@@ -33,6 +33,14 @@ layout: null
     color: #B33E0C;
 }
 
+.member {
+    max-height: 75px;
+    min-height: 75px;
+    display: flex;
+    align-items: center;
+}
+
+
 /* --- General --- */
 
 html {
