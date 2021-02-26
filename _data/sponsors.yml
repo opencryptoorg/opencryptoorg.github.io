@@ -31,6 +31,10 @@ members:
     website: https://twitter.com/Coinbase
     logo: coinbase.png
   -
+    name: Foundation Devices
+    website: https://foundationdevices.com/
+    logo: foundation.svg
+  -
     name: Kraken
     website: https://twitter.com/krakenfx
     logo: kraken.png
