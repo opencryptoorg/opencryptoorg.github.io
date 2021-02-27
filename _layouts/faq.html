@@ -23,9 +23,10 @@ layout: base
                   <h2>Frequently <br> Asked Questions</h2>
            
                   {% for panel in page.accordion %}
+                  {% assign i = {{ forloop.index }} %}
                   <div class="faq-entry">
-                  <input type="checkbox" id = {{ "faq-check" | append: {{ forloop.index }} }} >
-                  <label for={{ "faq-check" | append: {{ forloop.index }} }}>
+                  <input type="checkbox" id = "faq-check{{ forloop.index }}" >
+                  <label for="faq-check{{ forloop.index }}">
                   {{ panel.title }}
                   </label>
                   <div class="panel">
