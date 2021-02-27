@@ -51,8 +51,8 @@ layout: null
     float: right;
     margin-left: 5px;
 }
-.panel p{
-	font-family: 'Work Sans', sans-serif;
+.panel {
+    font-family: 'Work Sans', sans-serif;
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
@@ -71,6 +71,10 @@ input + label + .panel {
 
 input:checked + label + .panel {
     display: block;
+}
+
+input:checked + label.faq-label::after {
+    content: '\2212';;
 }
 
 /* --- Random additions to clean up later --- */
