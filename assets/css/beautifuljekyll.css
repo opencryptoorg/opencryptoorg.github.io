@@ -61,14 +61,17 @@ layout: null
     margin-top: 20px;
 }
 
-input:checked {
-  ~ .panel {
-    background-color: #944a4a;
-    height:300px;
-    display:flex;
-  }
+input {
+    display: none;
 }
 
+input + label + .panel {
+    display: none;
+}
+
+input:checked + label + .panel {
+    display: block;
+}
 
 /* --- Random additions to clean up later --- */
 .container {
