@@ -24,10 +24,10 @@ layout: base
            
                   {% for panel in page.accordion %}
                   <div class="faq-entry">
-                  <input type="checkbox">
-                  <p class="label">
+                  <input type="checkbox" id = {{ "faq-check" | append: {{ forloop.index }} }} >
+                  <label for={{ "faq-check" | append: {{ forloop.index }} }}>
                   {{ panel.title }}
-                  </p>
+                  </label>
                   <div class="panel">
                   {{ panel.content }}
                   </div>
