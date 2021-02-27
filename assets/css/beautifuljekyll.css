@@ -4,6 +4,72 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* --- Pure CSS Accordion FAQ styling --- */
+/* Style the buttons that are used to open and close the accordion panel */
+.faq-label {
+	background-color: #fff;
+    cursor: pointer;
+	padding: 18px 18px 18px 0px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    border-bottom: 1px solid #ECECEC;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.1px;
+	color: #000000;
+	margin:0px;
+}
+.faq-accordion p{
+	
+}
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .faq-accordion:hover {
+  border-top: none;
+}
+
+.active, .faq-accordion:hover{
+	background:#fff;
+}
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  background-color: white;
+
+  overflow: hidden;
+}
+.faq-label.active:after {
+    content: "\2212";
+}
+.faq-label:after {
+    content: '\002B';
+    color: #787878;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+.panel p{
+	font-family: 'Work Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #787878;
+    margin-top: 20px;
+}
+
+input:checked {
+  ~ .panel {
+    background-color: #944a4a;
+    height:300px;
+    display:flex;
+  }
+}
+
+
 /* --- Random additions to clean up later --- */
 .container {
   max-width:1170px;
