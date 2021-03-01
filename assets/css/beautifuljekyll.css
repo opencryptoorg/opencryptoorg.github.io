@@ -78,6 +78,33 @@ input:checked + label.faq-label::after {
 }
 
 /* --- Random additions to clean up later --- */
+.copa-home-banner{
+    text-align: center;
+    min-height: 200px;
+    font-size: 3rem;
+    color: #ffffff;
+    width: 60%;
+    margin-left: 20%!important;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.copa-home-banner h2{
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: center;
+}
+
+.copa-home-banner p{
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.1px;
+    margin-top: 50px;
+    text-align: center;
+}
+
 .container {
   max-width:1170px;
 }
