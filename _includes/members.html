@@ -15,7 +15,7 @@
 	{% if forloop.last and spot == 2 %}
 		<div class="col"> </div>
 	{% endif %}
-	{% unless member.logo contains 'https://' %}{% capture logo %}{{ site.basedir }}img/members/{{member.logo}}{% endcapture %}{% endunless %}
+	{% unless member.logo contains 'https://' %}{% capture logo %}{{ site.basedir }}/img/members/{{member.logo}}{% endcapture %}{% endunless %}
 		{% unless member.logo %}
 		        <div class="col">	
 			<div class="member">
