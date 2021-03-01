@@ -105,6 +105,11 @@ input:checked + label.faq-label::after {
     text-align: center;
 }
 
+.banner-box {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .container {
   max-width:1170px;
 }
