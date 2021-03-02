@@ -363,19 +363,6 @@ img {
 }
 
 @media (max-width: 959px) {
-  .navbar-custom .navbar-brand-logo img {
-    max-width: 120px;
-    max-height:25.7px;
-  }
-  .navbar-custom .navbar-toggler {
-    display:flex;
-  }
-  .navbar-custom .navbar-nav{
-     display:none;
-  }
-}
-
-@media (min-width: 960px) {
   .copa-home-banner {
     padding-top:10px;
     padding-bottom:10px;
@@ -389,6 +376,19 @@ img {
     font-size:14px;
   }	
 	
+  .navbar-custom .navbar-brand-logo img {
+    max-width: 120px;
+    max-height:25.7px;
+  }
+  .navbar-custom .navbar-toggler {
+    display:flex;
+  }
+  .navbar-custom .navbar-nav{
+     display:none;
+  }
+}
+
+@media (min-width: 960px) {	
   .navbar-custom .navbar-toggler{
     display:none;
   }
