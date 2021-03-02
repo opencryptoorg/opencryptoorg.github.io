@@ -43,6 +43,10 @@ members:
     website: https://www.mercury.cash/
     logo: mercurycash.png
   -
+    name: Microstrategy
+    website: https://www.microstrategy.com/
+    logo: microstrategy.svg
+  -
     name: OKcoin
     website: https://twitter.com/OKcoin
     logo: okcoin.png
