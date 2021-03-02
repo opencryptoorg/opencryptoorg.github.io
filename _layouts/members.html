@@ -10,18 +10,12 @@ layout: base
                    <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text">
                   <h2>Members</h2>
                   </div>
+	    </div>
            
 
 {% assign members = site.data.sponsors.members %}
 
 <div id="members">
-
-	<h2>Member Companies</h2>
-
-	<p>Copa member companies.</p>
-	 
-	<div class="container">
-	
 	{% for member in members %}
 	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
