@@ -37,9 +37,11 @@ layout: base
                       <p>
                       {{ panel.content }}
                           {% if panel.table %}
+			      Found table
 			      {% assign t = panel.table %}
 			      {% for r in t %}
-			      {{%r.left %}}
+			          found item
+			         {{ r.left  }}
 			      {% endfor %}
 			  
                           <table class="feeTable" id="feeTableId" border="1px solid red">
