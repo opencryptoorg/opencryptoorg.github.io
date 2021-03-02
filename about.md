@@ -55,13 +55,13 @@ accordion:
     table:
       -row:
          - left: Revenue
-         - right: Membership fees
+           right: Membership fees
       -row:
          - left: 1
-         - right: $1
+           right: $1
       -row:
          - left: 2
-         - right: $2
+           right: $2
 
 ---
 
