@@ -54,7 +54,7 @@ accordion:
     content:
     table:
         row:
-           left: Rev enue
+           left: Rev!enue
            right: Membership fees
         row:
            left: 1
