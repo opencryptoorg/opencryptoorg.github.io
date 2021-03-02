@@ -1,6 +1,6 @@
 ---
 layout: 2col
-title: About COPA
+title: Joining <br> COPA
 accordion:
   - title: 
     content: >   
