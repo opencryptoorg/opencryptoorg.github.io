@@ -53,13 +53,10 @@ accordion:
   - title:
     content:
     table:
-        - row:
-           - left: Rev!enue
-             right: Membership fees
-        - row:
-           - left: 1
-             right: $1
-        - row:
-           - left: 2
-             right: $2
+        - left: Revenue
+          right: Membership fees
+        - left: 1
+          right: $1
+        - left: 2
+          right: $2
 ---
