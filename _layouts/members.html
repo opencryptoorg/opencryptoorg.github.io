@@ -2,6 +2,16 @@
 layout: base
 ---
 
+<div class="container" role="main">
+            <div class="row top-buffer">
+                  <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <img src="https://opencrypto.org/wp-content/themes/neve-child/images/FAQ.svg" class="img-responsive copa-logo">
+                  </div>
+                   <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text">
+                  <h2>Members</h2>
+                  </div>
+           
+
 {% assign members = site.data.sponsors.members %}
 
 <div id="members">
@@ -37,4 +47,6 @@ layout: base
 	{% cycle "closerow": '', '', '</div>' %}
 	{% endfor %}
 	</div>
+</div>
+ </div>
 </div>
