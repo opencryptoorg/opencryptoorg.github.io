@@ -57,6 +57,7 @@ accordion:
           Driving down the incidence of and deterring offensive patent litigation are fundamental objectives of COPA, 
           and the shared patent library helps do exactly that – in helping deter patent aggressors from suing the members, 
           regardless of whether they individually own patents or not, because of their ability to access patents from this collective shield.
+          
   - title: What types of patents are covered under the patent pledge?
     content: >
           <p>	The Patent Pledge covers two types of patents: </p>
@@ -73,7 +74,33 @@ accordion:
           <p>For clarity, the Patent Pledge covers patents that are directed to foundational cryptocurrency technology as
           defined above and does not cover patents that cover implementations or applications that only tangentially relate 
           to cryptocurrency. Just because a patent’s “claims” identify cryptocurrencies does not make it a patent covered 
-          under the pledge – the crux of the patent’s claims need to cover foundational cryptocurrency technology.</p>
+          under the pledge – the crux of the patent’s claims need to cover foundational cryptocurrency technology.</p>  
+          
+  - title: How does COPA's Patent Pledge affect a member's rights to its own patents?
+    content: >
+          A member’s Patent Pledge is legally binding and enforceable. To meet this goal, every member covenants (i.e., legally declares) not 
+          to sue anyone and also gives a license to their foundational cryptocurrency patents to anyone who develops cryptocurrency products. 
+          Members can never assert such patents offensively except under a limited set of situations:
+          <ol><li>in self-defense (if the member gets sued by a patent aggressor and the member wants to use its patents defensively against 
+          such an aggressor); </li>
+          <li>in defense of the community (if anyone else in the crypto community is attacked by a patent aggressor and the member wants to 
+          use its patents against such an aggressor); or </li>
+          <li>in defense against an impersonator who causes harm to the member’s customers (e.g., a copycat scammer of the member’s
+          products). </li></ol> <p>Members that own foundational crypto patents can still license, sell, or otherwise use these patents for 
+          normal business needs, as long as such transactions are not in violation of the patent pledge (i.e., not related to an offensive 
+          assertion of the patents). If a COPA member’s foundational crypto patent is sold or if the COPA member is acquired, the Patent 
+          Pledge and accompanying covenant and license stay with the patent.
+  
+  - title: Who can join and how? What are the membership fees?
+    content: >
+          Any company or individual can join COPA. There is no requirement that you own any patents to become a member. To join, reach out to 
+          <a href = "mailto: membership@open-patent.org" class="cp-hyperlink-dark">membership@open-patent.org</a> or submit a request 
+          <a href="https://opencrypto.org/joining-copa/?form=1" id="faq-reidrect" class="cp-hyperlink-dark">here</a>.  Square helped 
+          establish COPA and will assume the onboarding and operating expenses for the first year of operation. After the first year, 
+          membership fees will be based on annual revenue of the company as detailed. Individual membership will be free, though donations 
+          are encouraged. To be clear, COPA will operate as a not-for-profit 501(c)(6) and will only collect dues as necessary for 
+          the functioning of the organization.
+    
   - title: How does the Shared Patent Library work?
     content: >
           While the Patent Pledge aims to provide open access to foundational crypto patents for the community, the Shared 
