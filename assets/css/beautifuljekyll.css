@@ -376,6 +376,19 @@ img {
 }
 
 @media (min-width: 960px) {
+  .copa-home-banner {
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+	
+  .copa-home-banner h2 {
+    font-size:30px;
+  }
+
+  .copa-home-banner p {
+    font-size:14px;
+  }	
+	
   .navbar-custom .navbar-toggler{
     display:none;
   }
