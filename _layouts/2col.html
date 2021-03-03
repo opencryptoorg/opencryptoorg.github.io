@@ -49,11 +49,12 @@ layout: base
                                           </tbody>
                                            </tbody>
                    
-	                            {% endif %}
+	                            {% else %}
 					<tr>
 						<td> {{ r.left }}  </td>
 						<td> {{ r.right }} </td>
-			  </tr>
+			                </tr>
+			  	    {% endif %}
 			        {% endfor %}
 			  
                                  </table>
