@@ -37,23 +37,26 @@ layout: base
                       <p>
                       {{ panel.content }}
                           {% if panel.table %}
-			      Found table
 			        {% for r in panel.table %}
-			           {{ r  }}
-			            found-item
-			           {{ r.left  }}
+			           { % if forloop.first %}
+			                                <table class="feeTable" id="feeTableId" border="1px solid red">
+                                           <thead>
+				           <tr>
+					            <th> {{ r.left }} </th>
+					            <th> {{ r.right }} </th>
+			               	   </tr>
+			                  </thead>
+                                          </tbody>
+                                           </tbody>
+                   
+	                            { % endif % }
+					<tr>
+						<td> {{ r.left }}  </td>
+						<td> {{ r.right }} </td>
+			  </tr>
 			        {% endfor %}
 			  
-                          <table class="feeTable" id="feeTableId" border="1px solid red">
-                           <thead>
-				             <tr>
-					            <th>Revenue</th>
-					            <th>Membership fees</th>
-			               	 </tr>
-			               </thead>
-                              </tbody>
-                             </tbody>
-                             </table>
+                                 </table>
                          {% endif %}
                       </p>
                       </div>
