@@ -55,8 +55,14 @@ accordion:
     table:
         - left: Revenue
           right: Membership fees
-        - left: 1
-          right: $1
-        - left: 2
-          right: $2
+        - left: <$10M
+          right: Free
+        - left: $10M - $25M 
+          right: $5000
+        - left: $25M - $50M 
+          right: $10,000
+        - left: $50M - $100M 
+          right: $15,000
+        - left: \>$100M
+          right: $20,000
 ---
