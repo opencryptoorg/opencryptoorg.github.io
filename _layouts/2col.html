@@ -38,7 +38,7 @@ layout: base
                       {{ panel.content }}
                           {% if panel.table %}
 			        {% for r in panel.table %}
-			           { % if forloop.first %}
+			           {% if forloop.first %}
 			                                <table class="feeTable" id="feeTableId" border="1px solid red">
                                            <thead>
 				           <tr>
@@ -49,7 +49,7 @@ layout: base
                                           </tbody>
                                            </tbody>
                    
-	                            { % endif % }
+	                            {% endif %}
 					<tr>
 						<td> {{ r.left }}  </td>
 						<td> {{ r.right }} </td>
