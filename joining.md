@@ -9,7 +9,7 @@ accordion:
     content: > 
             The COPA Membership Agreement is entered into by COPA members to address the threat of patents being used to stifle innovation
             and growth in the crypto community. The agreement addresses two major objectives:
-            <br> 1 / <br>
+            <br><br> 1 / <br>
             Patent Pledge<br>
             Members agree to never assert their foundational crypto patents offensively against anyone, except under the following limited
             set of situations: (1) in self defense (if the member gets sued by a patent aggressor and the member wants to use its patents
