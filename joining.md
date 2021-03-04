@@ -4,7 +4,7 @@ title: Joining <br> COPA
 accordion:
   - title: 
     content: >   
-            Anyone can join COPA, regardless whether you have patents, by signing the <a href="https://open-patent.org/wp-content/uploads/2020/09/C0PAMembershipAgreement.pdf" target="_blank" class="cp-hyperlink-dark">COPA Membership Agreement.</a>.
+            Anyone can join COPA, regardless whether you have patents, by signing the <a href="/agreements/COPAMembershipAgreement.pdf" target="_blank" class="cp-hyperlink-dark">COPA Membership Agreement.</a>
   - title: Membership Agreement
     content: > 
             The COPA Membership Agreement is entered into by COPA members to address the threat of patents being used to stifle innovation
