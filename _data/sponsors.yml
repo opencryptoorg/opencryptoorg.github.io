@@ -13,7 +13,7 @@ members:
   -
     name: Blockchain Commons
     website: https://www.blockchaincommons.com/
-    logo:
+    logo: blockchaincommons.png
   -
     name: Blockstream
     website: https://blockstream.com/
@@ -28,7 +28,7 @@ members:
     logo: carnes.png
   -
     name: Coinbase
-    website: https://twitter.com/Coinbase
+    website: https://www.coinbase.com/
     logo: coinbase.png
   -
     name: Foundation Devices
@@ -36,7 +36,7 @@ members:
     logo: foundation.svg
   -
     name: Kraken
-    website: https://twitter.com/krakenfx
+    website: https://www.kraken.com/
     logo: kraken.png
   -
     name: MercuryCash
@@ -48,7 +48,7 @@ members:
     logo: microstrategy.svg
   -
     name: OKcoin
-    website: https://twitter.com/OKcoin
+    website: https://www.okcoin.com/
     logo: okcoin.png
   -
     name: Protocol Labs
@@ -64,7 +64,7 @@ members:
     logo: satoshilabs.svg
   -
     name: Square
-    website: https://twitter.com/Square
+    website: https://squareup.com/
     logo: square.png
   -
     name: Stacks
