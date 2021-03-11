@@ -2,6 +2,8 @@
 layout: post
 title: COPA Hosts the Bitcoin Whitepaper
 ---
+COPA is proud to host [Satoshi's Nakamoto's original Bitcoin Whitepaper](/agreements/bitcoin.pdf).
+
 COPA operates on the principle that open access to patents covering foundational cryptocurrency technologies is necessary for the community to grow, freely innovate, and build new and better products.
 
 The Cryptocurrency Open Patent Alliance (COPA) stands for an open financial system and was formed to remove barriers that would stifle innovation and deter mass-adoption. As such, we stand in solidarity with the crypto community by hosting the Bitcoin Whitepaper on our website.
