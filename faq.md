@@ -94,8 +94,7 @@ accordion:
   - title: Who can join and how? What are the membership fees?
     content: >
           Any company or individual can join COPA. There is no requirement that you own any patents to become a member. To join, reach out to 
-          <a href = "mailto: membership@open-patent.org" class="cp-hyperlink-dark">membership@open-patent.org</a> or submit a request 
-          <a href="https://opencrypto.org/joining-copa/?form=1" id="faq-reidrect" class="cp-hyperlink-dark">here</a>.  Square helped 
+          <a href = "mailto: membership@open-patent.org" class="cp-hyperlink-dark">membership@open-patent.org</a>.  Square helped 
           establish COPA and will assume the onboarding and operating expenses for the first year of operation. After the first year, 
           membership fees will be based on annual revenue of the company as detailed. Individual membership will be free, though donations 
           are encouraged. To be clear, COPA will operate as a not-for-profit 501(c)(6) and will only collect dues as necessary for 
