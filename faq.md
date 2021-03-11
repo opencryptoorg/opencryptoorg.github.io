@@ -111,7 +111,7 @@ accordion:
           asserting the patent against the patent aggressor. Once the member owning the requested patent agrees, that member 
           and the member requesting the patent take on an obligation to engage in good faith to enter into a separate 
           agreement to provide the defending member with sufficient rights to use the patent defensively.  Exhibit C of the 
-          <a href="https://open-patent.org/wp-content/uploads/2020/09/C0PAMembershipAgreement.pdf" target="_blank" 
+          <a href="/agreements/COPAMembershipAgreement.pdf" target="_blank" 
           class="cp-hyperlink-dark">COPA Membership Agreement</a> provides details on the recommended mechanics for such a 
           transfer, and outlines the rights and responsibilities of the parties in this situation.
     
