@@ -39,6 +39,10 @@ members:
     website: https://www.kraken.com/
     logo: kraken.png
   -
+    name: Lisk
+    website: https://lisk.io/
+    logo: lisklogosvg.svg
+  -
     name: MercuryCash
     website: https://www.mercury.cash/
     logo: mercurycash.png
