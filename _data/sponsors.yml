@@ -11,6 +11,10 @@ members:
     website: https://bithyve.com/
     logo: bithyve.png
   -
+    name: BitPay
+    website: https://bitpay.com/
+    logo: bitpay.png    
+  -
     name: Blockchain Commons
     website: https://www.blockchaincommons.com/
     logo: blockchaincommons.png
