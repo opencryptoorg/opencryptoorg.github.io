@@ -47,6 +47,10 @@ members:
     website: https://lisk.io/
     logo: lisklogosvg.svg
   -
+    name: Mempool
+    website: https://mempool.space/
+    logo: mempool-space.png
+  -
     name: MercuryCash
     website: https://www.mercury.cash/
     logo: mercurycash.png
