@@ -30,6 +30,12 @@ members:
     name: Carnes Validads
     website: https://carnesvalidadas.com/
     logo: carnes.png
+    
+    -
+    name: CheckSig
+    website: https://checksig.io/
+    logo: CheckSig.svg
+    
   -
     name: Coinbase
     website: https://www.coinbase.com/
