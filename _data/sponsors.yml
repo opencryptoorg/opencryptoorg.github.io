@@ -38,6 +38,12 @@ members:
     name: Coinbase
     website: https://www.coinbase.com/
     logo: coinbase.png
+  
+  - 
+    name: Digital Gold Institute
+    website: https://dgi.io/
+    logo: dgi.svg
+    
   -
     name: Foundation Devices
     website: https://foundationdevices.com/
