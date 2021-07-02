@@ -7,6 +7,10 @@ members:
     website: https://ark.io/
     logo: ark.jpeg
   -
+    name: bitbank
+    website: https://bitbank.cc/en/
+    logo: bitbank.png
+  -
     name: BitHyve
     website: https://bithyve.com/
     logo: bithyve.png
@@ -22,10 +26,6 @@ members:
     name: Blockstream
     website: https://blockstream.com/
     logo: blockstream.png
-  -
-    name: bitbank
-    website: https://bitbank.cc/en/
-    logo: bitbank.png
   -
     name: Carnes Validads
     website: https://carnesvalidadas.com/
