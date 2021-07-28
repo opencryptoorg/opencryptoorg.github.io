@@ -28,5 +28,5 @@ accordion:
             act in the members’ collective interests, in the rights transfer process.
   - title: How to Join
     content: > 
-            Please send an email to membership at open-patent dot org, indicating your company or affiliation, and your role.
+            Please send an email to membership at opencrypto dot org, indicating your company or affiliation, and your role.
 ---
