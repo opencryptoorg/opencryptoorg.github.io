@@ -17,7 +17,7 @@ members:
   -
     name: BitPay
     website: https://bitpay.com/
-    logo: bitpay.png    
+    logo: bitpay.png
   -
     name: Blockchain Commons
     website: https://www.blockchaincommons.com/
@@ -29,21 +29,25 @@ members:
   -
     name: Carnes Validads
     website: https://carnesvalidadas.com/
-    logo: carnes.png  
+    logo: carnes.png
   -
     name: CheckSig
     website: https://checksig.io/
-    logo: CheckSig.svg   
+    logo: CheckSig.svg
+  -
+    name: Chia Network
+    website: https://chia.net/
+    logo: chia.svg
   -
     name: Coinbase
     website: https://www.coinbase.com/
     logo: coinbase.png
-  
-  - 
+
+  -
     name: Digital Gold Institute
     website: https://dgi.io/
     logo: dgi.svg
-    
+
   -
     name: Foundation Devices
     website: https://foundationdevices.com/
@@ -96,7 +100,7 @@ members:
     name: Stakenet
     website: https://stakenet.io/
     logo: stakenet.png
-  - 
-    name: Uniswap 
+  -
+    name: Uniswap
     website: https://uniswap.org/
-    logo: uniswap.png  
+    logo: uniswap.png
