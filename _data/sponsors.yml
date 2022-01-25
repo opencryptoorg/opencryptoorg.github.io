@@ -35,6 +35,10 @@ members:
     website: https://checksig.io/
     logo: CheckSig.svg
   -
+    name: Chaincode Labs
+    website: https://chaincode.com/
+    logo: chaincode.png
+  -
     name: Chia Network
     website: https://chia.net/
     logo: chia.svg
