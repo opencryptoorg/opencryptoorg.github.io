@@ -108,3 +108,7 @@ members:
     name: Uniswap
     website: https://uniswap.org/
     logo: uniswap.png
+  -
+    name: Worldcoin
+    website: https://worldcoin.org/
+    logo: worldcoin.png
