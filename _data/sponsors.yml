@@ -73,6 +73,10 @@ members:
     website: https://www.mercury.cash/
     logo: mercurycash.png
   -
+    name: Meta
+    website: https://about.facebook.com/meta/
+    logo: meta.png
+  -
     name: Microstrategy
     website: https://www.microstrategy.com/
     logo: microstrategy.svg
