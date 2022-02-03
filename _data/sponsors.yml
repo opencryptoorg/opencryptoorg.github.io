@@ -46,7 +46,10 @@ members:
     name: Coinbase
     website: https://www.coinbase.com/
     logo: coinbase.png
-
+  -
+    name: Coinkite
+    website: https://www.coinkite.com/
+    logo: coinkite.svg
   -
     name: Digital Gold Institute
     website: https://dgi.io/
