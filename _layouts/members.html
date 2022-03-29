@@ -23,7 +23,7 @@ layout: base
 	
 {% assign members = site.data.sponsors.platinum %}
 
-<div id="platinum">
+<div id="members">
 	{% for member in members %}
 	{% cycle "openrowplat": '<div class="row top-buffer plat"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
@@ -48,7 +48,6 @@ layout: base
 
 	{% cycle "closerowplat": '', '', '</div>' %}
 	{% endfor %}
-	</div>
 </div>
            
 <div class="row top-buffer">
