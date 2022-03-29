@@ -60,10 +60,6 @@ members:
     website: https://chia.net/
     logo: chia.svg
   -
-    name: Coinbase
-    website: https://www.coinbase.com/
-    logo: coinbase.png
-  -
     name: Coinkite
     website: https://www.coinkite.com/
     logo: coinkite.svg
@@ -71,7 +67,6 @@ members:
     name: Digital Gold Institute
     website: https://dgi.io/
     logo: dgi.svg
-
   -
     name: Foundation Devices
     website: https://foundationdevices.com/
