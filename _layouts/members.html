@@ -25,7 +25,7 @@ layout: base
 
 <div id="platinum">
 	{% for member in members %}
-	{% cycle "openrow": '<div class="row top-buffer plat"><div class="col-md-4"></div>', '', '' %}
+	{% cycle "openrowplat": '<div class="row top-buffer plat"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
 	{% assign spot = forloop.length | modulo:3 %}
 	{% if forloop.last and spot == 2 %}
@@ -46,7 +46,7 @@ layout: base
 			</div>
 		{% endunless %}
 
-	{% cycle "closerow": '', '', '</div>' %}
+	{% cycle "closerowplat": '', '', '</div>' %}
 	{% endfor %}
 	</div>
 </div>
@@ -64,7 +64,7 @@ layout: base
 
 <div id="members">
 	{% for member in members %}
-	{% cycle "openrow": '<div class="row top-buffer gen"><div class="col-md-4"></div>', '', '' %}
+	{% cycle "openrowgen": '<div class="row top-buffer gen"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
 	{% assign member_spot = forloop.length | modulo:3 %}
 	{% if forloop.last and member_spot == 2 %}
@@ -85,7 +85,7 @@ layout: base
 			</div>
 		{% endunless %}
 
-	{% cycle "closerow": '', '', '</div>' %}
+	{% cycle "closerowgen": '', '', '</div>' %}
 	{% endfor %}
 	</div>
 </div>
