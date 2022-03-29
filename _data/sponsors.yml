@@ -3,6 +3,10 @@
 ## differentiate the two types of information
 platinum:
   -
+    name: Aquarius
+    website: https://aquarius.co/
+    logo: Aquarius.png
+  -
     name: Block
     website: https://block.xyz/
     logo: Block.png
