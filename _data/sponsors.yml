@@ -14,6 +14,10 @@ platinum:
     name: Coinbase
     website: https://www.coinbase.com/
     logo: coinbase.png
+  -
+    name: Meta
+    website: https://about.facebook.com/meta/
+    logo: meta2.svg
 members:
   -
     name: Ark
@@ -88,10 +92,6 @@ members:
     name: MercuryCash
     website: https://www.mercury.cash/
     logo: mercurycash.png
-  -
-    name: Meta
-    website: https://about.facebook.com/meta/
-    logo: meta2.svg
   -
     name: Microstrategy
     website: https://www.microstrategy.com/
