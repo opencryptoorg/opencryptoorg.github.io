@@ -11,7 +11,54 @@ layout: base
                   <h2>Members</h2>
                   </div>
 	    </div>
+	
+<div class="row top-buffer">
+                      <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"> </div>
+                      <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 about-big-text">
+                          <h4> Platinum Members </h4>
+                      </div>
+                      <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text">
+                      </div>
+</div>
+	
+{% assign members = site.data.sponsors.platinum %}
+
+<div id="members">
+	{% for member in members %}
+	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-4"></div>', '', '' %}
+	{% assign logo=member.logo %}
+	{% assign spot = forloop.length | modulo:3 %}
+	{% if forloop.last and spot == 2 %}
+		<div class="col"> </div>
+	{% endif %}
+	{% unless member.logo contains 'https://' %}{% capture logo %}{{ site.basedir }}/img/members/{{member.logo}}{% endcapture %}{% endunless %}
+		{% unless member.logo %}
+		        <div class="col">	
+			<div class="member">
+			{{ member.name }}
+			</div>
+			</div>
+		{% else %}
+		        <div class="col">	
+			<div class="member">
+			<a href="{{ member.website }}"><img src="{{ logo }}" width="150" alt="{{ member.name }}" title="{{ member.name }}"></a>
+			</div>
+			</div>
+		{% endunless %}
+
+	{% cycle "closerow": '', '', '</div>' %}
+	{% endfor %}
+	</div>
+</div>
            
+<div class="row top-buffer">
+                      <div class="col-lg-1 col-md-1 col-sm-1 col-xs12"> </div>
+                      <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 about-big-text">
+                          <h4> General Members </h4>
+                      </div>
+                      <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 about-text">
+                      </div>
+</div>
 
 {% assign members = site.data.sponsors.members %}
 
