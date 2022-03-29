@@ -1,6 +1,15 @@
 ## When putting either quotes or exposition into the same types of
 ## slots, ensure quotations are displayed surrounded by quotes marks to
 ## differentiate the two types of information
+platinum:
+  -
+    name: Block
+    website: https://block.xyz/
+    logo: Block.png
+  -
+    name: Coinbase
+    website: https://www.coinbase.com/
+    logo: coinbase.png
 members:
   -
     name: Ark
@@ -99,10 +108,6 @@ members:
     name: SatoshiLabs
     website: https://satoshilabs.com/
     logo: satoshilabs.svg
-  -
-    name: Block
-    website: https://block.xyz/
-    logo: Block.png
   -
     name: Stacks
     website: https://www.stacks.co/
