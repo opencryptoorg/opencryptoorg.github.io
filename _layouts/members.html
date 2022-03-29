@@ -25,7 +25,7 @@ layout: base
 
 <div id="platinum">
 	{% for member in members %}
-	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-4"></div>', '', '' %}
+	{% cycle "openrow": '<div class="row top-buffer plat"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
 	{% assign spot = forloop.length | modulo:3 %}
 	{% if forloop.last and spot == 2 %}
