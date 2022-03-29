@@ -64,11 +64,11 @@ layout: base
 
 <div id="members">
 	{% for member in members %}
-	{% cycle "openrow": '<div class="row top-buffer"><div class="col-md-4"></div>', '', '' %}
+	{% cycle "openrow": '<div class="row top-buffer gen"><div class="col-md-4"></div>', '', '' %}
 	{% assign logo=member.logo %}
 	{% assign member_spot = forloop.length | modulo:3 %}
 	{% if forloop.last and member_spot == 2 %}
-		<div class="col"> </div>
+		<div class="col singleton"> </div>
 	{% endif %}
 	{% unless member.logo contains 'https://' %}{% capture logo %}{{ site.basedir }}/img/members/{{member.logo}}{% endcapture %}{% endunless %}
 		{% unless member.logo %}
