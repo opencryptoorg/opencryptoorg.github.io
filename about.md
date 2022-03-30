@@ -46,23 +46,7 @@ accordion:
               available for everyone, and six members from member companies. We will appoint board members based on interest level and diversification in terms of 
               technology, company size, etc.
               
-  - title: COPA Membership Fees
+  - title: COPA is free
     content: > 
-              Square will help get COPA established and assume the onboarding and operating expenses for the first year of operation. After the first year, 
-              membership fees will be based on annual revenue of the member company as follows:
-  - title:
-    content:
-    table:
-        - left: Revenue
-          right: Membership fees
-        - left: Less than $10M
-          right: Free
-        - left: $10M - $25M 
-          right: $5000
-        - left: $25M - $50M 
-          right: $10,000
-        - left: $50M - $100M 
-          right: $15,000
-        - left: Over $100M
-          right: $20,000
+              COPA is free for everyone. If you would like to support COPA's operating costs and get promotional consideration, please consider an optional platinum membership at $20,000 annually. You can learn more by emailing membership @ opencrypto org
 ---
