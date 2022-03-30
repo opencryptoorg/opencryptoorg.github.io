@@ -46,7 +46,7 @@ accordion:
               available for everyone, and six members from member companies. We will appoint board members based on interest level and diversification in terms of 
               technology, company size, etc.
               
-  - title: COPA is free
+  - title: COPA is Free
     content: > 
               COPA is free for general members. If you would like to support COPA's operating costs and get promotional consideration, please consider an optional platinum membership at $20,000 annually. You can learn more by emailing membership @ opencrypto org.
 ---
