@@ -120,6 +120,10 @@ members:
     website: https://uniswap.org/
     logo: uniswap.png
   -
+    name: VerifyChain
+    website: https://verifychain.io/
+    logo: verifychain.jpg
+  -
     name: Worldcoin
     website: https://worldcoin.org/
     logo: worldcoin.png
