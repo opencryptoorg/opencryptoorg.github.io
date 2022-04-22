@@ -9,7 +9,7 @@ accordion:
     content: > 
             The COPA Membership Agreement is entered into by COPA members to address the threat of patents being used to stifle innovation
             and growth in cryptocurrency. Joining COPA means you are protected from patent suits initiated by other COPA members, 
-            and you are part of a defensive community that works together to conquer common challenges so we can make excellent technology and products.
+            and you are part of a defensive community that works together to conquer common challenges.
             <br>
             <br>Patent Pledge<br><br>
             Members agree to never assert their foundational crypto patents offensively against anyone, except under the following limited
