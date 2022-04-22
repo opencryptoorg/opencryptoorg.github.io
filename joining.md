@@ -4,7 +4,7 @@ title: Joining <br> COPA
 accordion:
   - title: 
     content: >   
-            Anyone can join COPA, regardless whether you have patents, by signing the <a href="/agreements/COPAMembershipAgreement.pdf" target="_blank" class="cp-hyperlink-dark">COPA Membership Agreement.</a>
+            Anyone can join COPA, regardless whether you have patents, for free. Review the  <a href="/agreements/COPAMembershipAgreement.pdf" target="_blank" class="cp-hyperlink-dark">COPA Membership Agreement</a>, and contact membership at opencrypto dot org to sign.
   - title: Membership Agreement
     content: > 
             The COPA Membership Agreement is entered into by COPA members to address the threat of patents being used to stifle innovation
@@ -18,14 +18,6 @@ accordion:
             who causes harm to the member’s customers (e.g., a copycat scammer of the member’s products). Members accomplish this by granting
             a non-exclusive and perpetual license to their foundational crypto patents, subject to the exceptions above.<br><br>
             
-            <br> 2 / <br>
-            Shared Patent Library<br>
-            Members agree to contribute their crypto-technology patents to a “shared patent library” so that another member that is subject 
-            to a patent lawsuit can request to use one or more of those crypto-technology patents defensively against the patent aggressor. 
-            The member seeking to use a crypto-technology patent from the shared patent library will make a request to the owner of the 
-            patent, who must not unreasonably deny the request. The members will then negotiate specific terms for granting the requesting 
-            member the necessary rights. In some circumstances, the members may decide to involve COPA, as a neutral party that is able to 
-            act in the members’ collective interests, in the rights transfer process.
   - title: How to Join
     content: > 
             Please send an email to membership at opencrypto dot org, indicating your company or affiliation, and your role.
