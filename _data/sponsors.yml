@@ -131,3 +131,7 @@ members:
     name: Worldcoin
     website: https://worldcoin.org/
     logo: worldcoin.png
+  -
+    name: ZendLedger
+    website: https://www.zenledger.io/
+    logo: zenledger.svg
