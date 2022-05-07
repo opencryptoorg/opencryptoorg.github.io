@@ -18,6 +18,10 @@ platinum:
     name: Meta
     website: https://about.facebook.com/meta/
     logo: meta2.svg
+  -
+    name: Microstrategy
+    website: https://www.microstrategy.com/
+    logo: microstrategy.svg
 members:
   -
     name: Ark
@@ -91,10 +95,6 @@ members:
     name: MercuryCash
     website: https://www.mercury.cash/
     logo: mercurycash.png
-  -
-    name: Microstrategy
-    website: https://www.microstrategy.com/
-    logo: microstrategy.svg
   -
     name: OKcoin
     website: https://www.okcoin.com/
