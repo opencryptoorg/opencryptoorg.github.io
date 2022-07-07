@@ -11,6 +11,10 @@ platinum:
     website: https://block.xyz/
     logo: Block.png
   -
+    name: BtcTurk
+    website: https://www.btcturk.com/
+    logo: btcturk.svg
+  -
     name: Coinbase
     website: https://www.coinbase.com/
     logo: coinbase.png
