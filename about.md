@@ -31,15 +31,10 @@ accordion:
              
   - title:
     content: > 
-             First, COPA members pledge never to use their crypto-technology patents against anyone, except for defensive reasons, effectively making their 
+             COPA members pledge never to use their crypto-technology patents against anyone, except for defensive reasons, effectively making their 
              patents freely available for all to use.   
              
-  - title:
-    content: > 
-              Second, members pool all of their crypto-technology patents together to form a shared patent library. This collective shield of patents provides 
-              members access to each others’ patents to deter and defend against patent aggressors, thereby empowering every member, regardless of whether they 
-              individually own patents or not, with tools and leverage to defend themselves against patent aggressors.
-              
+             
   - title: COPA Leadership
     content: > 
               COPA will be governed by a board of nine members – three members from the crypto and open source community who work towards making crypto better and 
