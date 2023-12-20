@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome Meta to COPA's Boards
+title: Welcome Meta to COPA's Board
 comments: true
 ---
-In what is the biggest cryptocurrency patent commitment to date, Meta has become a member of the Crypto Open Patent Alliance (COPA), which encourages innovation by lowering the chance of patent litigation. Meta will also join COPA’s board, alongside Coinbase and Block. Representing Meta will be Shayne O’Reilly, who manages Meta’s licensing and transactions group. The move solidifies COPA’s position as the leading cryptocurrency patent alliance, which is building a collaborative, open-source focused environment to protect core technologies for all users. 
+In a what is the biggest cryptocurrency patent commitment to date, Meta has become a member of the Crypto Open Patent Alliance (COPA), which encourages innovation by lowering the chance of patent litigation. Meta will also join COPA’s board, alongside Coinbase and Block. Representing Meta will be Shayne O’Reilly, who manages Meta’s licensing and transactions group. The move solidifies COPA’s position as the leading cryptocurrency patent alliance, which is building a collaborative, open-source focused environment to protect core technologies for all users. 
 
 Through joining COPA, Meta has pledged not to enforce its core cryptocurrency patents against anyone, except for defensive reasons, effectively making these patents freely available for all to use. 
 
