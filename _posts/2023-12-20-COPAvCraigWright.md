@@ -3,7 +3,7 @@ layout: post
 title: New development in the seminal COPA v Craig Wright case, which seeks to guarantee the long-term freedom of the bitcoin and open-source community
 comments: true
 ---
-<I>Following a hearing regarding an adjournment application from Craig Wright to delay the COPA v Wright trial by more than a year, the Judge has denied Craig Wright’s request and ruled that the trial will commence on February 5, 2024.</I> 
+<i>Following a hearing regarding an adjournment application from Craig Wright to delay the COPA v Wright trial by more than a year, the Judge has denied Craig Wright’s request and ruled that the trial will commence on February 5, 2024.</i> 
 
 The COPA v Wright trial seeks to disprove the claim made by Wright that he is Satoshi Nakamoto, the author of the bitcoin whitepaper and, consequently, the founder of bitcoin. Wright is involved in several lawsuits in the UK - which rely on this claim being true - alleging that multiple organisations and individuals in the crypto community violated his copyright in the bitcoin whitepaper, bitcoin database, and other intellectual property related to the creation of bitcoin. He insists, on that basis, that those organisations and individuals cannot host the bitcoin whitepaper or otherwise use that intellectual property. This claim, in effect, stops the development of bitcoin, chills and silences developers with the threat of litigation, and indeed undermines the entire spirit of the open-source community.
 
