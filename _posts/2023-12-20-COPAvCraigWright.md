@@ -13,7 +13,6 @@ For context on the adjournment application:
 <li>COPA served factual and expert evidence over the summer, showing that much of the documentation presented by Wright was inauthentic or forged.
 <li>At a hearing in October 2023, the Court agreed that, on the basis of that evidence, COPA could press its claims of forgery, and COPA provided a shortlist of documents that it will argue at trial were forged by Wright.
 <li>Dr Wright recently claimed to have found new documents which he said would prove his alleged identity. He argued that he could not be ready for the long-scheduled trial because of the need to review them. 
-</ul>
 
 In his ruling, Mr Justice Mellor said that he was satisfied that a fair trial could proceed in February.
 
