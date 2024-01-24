@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert Witnesses for Both COPA and Craig Wright Agree: Wright’s Newly Found Documents are Recent Creations
+title: Expert Witnesses for Both COPA and Craig Wright Agree - Wright’s Newly Found Documents are Recent Creations
 comments: true
 ---
 COPA has introduced new forensic evidence that definitively proves the inauthenticity of several documents that Craig Wright considers crucial to his claim that he is the founder of bitcoin. This was not only the conclusion of the expert COPA retained to forensically examine Wright's documents, but the conclusion of the expert Wright retained as well.
