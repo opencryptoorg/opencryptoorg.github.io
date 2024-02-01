@@ -47,7 +47,7 @@ accordion:
               COPA is free for general members. If you would like to support COPA's operating costs and get promotional consideration, please consider an optional platinum membership at $20,000 annually. You can learn more by emailing membership @ opencrypto org.
 
 
-    - title: Contact Us
+  - title: Contact Us
     content: >
              Membership: membership@opencrypto.org
              Press: press@opencrypto.org 
