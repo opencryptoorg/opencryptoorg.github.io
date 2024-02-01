@@ -49,7 +49,7 @@ accordion:
 
   - title: Contact Us
     content: >
-             Membership: membership@opencrypto.org
+             Membership: membership@opencrypto.org <br>
              Press: press@opencrypto.org 
   
 ---
