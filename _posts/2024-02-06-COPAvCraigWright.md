@@ -13,8 +13,8 @@ As an example of this behaviour, during cross examination on the second day of t
 
 Over the course of the trial, COPA will show:
 
-(1) The use of false and forged documents produced by Dr Wright
-(2) That Dr Wright has failed to supply any evidence which might support his claim to be Satoshi Nakamoto
-(3) The fact that Dr Wright’s account is full of inconsistent and implausible narratives. Not only has Dr Wright’s own story changed, but it also conflicts with reliable evidence and established fact.
+(1) The use of false and forged documents produced by Dr Wright<br>
+(2) That Dr Wright has failed to supply any evidence which might support his claim to be Satoshi Nakamoto<br>
+(3) The fact that Dr Wright’s account is full of inconsistent and implausible narratives. Not only has Dr Wright’s own story changed, but it also conflicts with reliable evidence and established fact.<br>
 
 The case documents can be found <a href="https://www.dropbox.com/scl/fo/4y3gdele4foy15006z8ch/h?rlkey=scs42wew1o3vwfv0nduhc43dm&dl=0" target="_blank">here</a>. To learn more about the case, please contact press[AT]opencrypto.org. 
