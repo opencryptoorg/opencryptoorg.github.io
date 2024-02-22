@@ -4,10 +4,10 @@ title: Witnesses speak out against Craig Wright in COPA vs Craig Wright trial; t
 comments: true
 ---
 
-Dr Adam Back, inventor of proof-of-work system cited in the bitcoin White Paper, testifies against Dr Wright’s claims about who influenced Satoshi;
-Martti Malmi, a Finnish computer scientist who corresponded with Satoshi Nakamoto in 2009 and 2011, testifies that he “communicated with Satoshi, who I believe to be a different person to Dr. Wright”
-Steve Lee, head of Spiral, outlines the broad significance of the case to the bitcoin community
-Renowned British journalist Rory Cellan Jones shares perspectives and witness statement after Lord Grabiner elects not to cross-examine him 
+- Dr Adam Back, inventor of proof-of-work system cited in the bitcoin White Paper, testifies against Dr Wright’s claims about who influenced Satoshi;
+- Martti Malmi, a Finnish computer scientist who corresponded with Satoshi Nakamoto in 2009 and 2011, testifies that he “communicated with Satoshi, who I believe to be a different person to Dr. Wright”
+- Steve Lee, head of Spiral, outlines the broad significance of the case to the bitcoin community
+- Renowned British journalist Rory Cellan Jones shares perspectives and witness statement after Lord Grabiner elects not to cross-examine him 
 
 Over the past days, the seminal COPA vs Craig Wright trial has heard the testimonies of a number of high-profile COPA witnesses. Their statements outline COPA’s reasons for pursuing the case and dispute Craig Wright’s claim that he is Satoshi Nakamoto, the author of the bitcoin whitepaper and founder of bitcoin. 
 
