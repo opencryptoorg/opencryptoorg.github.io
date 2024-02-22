@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Witnesses speak out against Craig Wright in COPA vs Craig Wright trial; testimony includes never-before-published correspondence with Satoshi Nakamoto”
+title: Witnesses speak out against Craig Wright in COPA vs Craig Wright trial; testimony includes never-before-published correspondence with Satoshi Nakamoto
 comments: true
 ---
 
