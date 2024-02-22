@@ -1,7 +1,8 @@
+---
 layout: post
 title: “Witnesses speak out against Craig Wright in COPA vs Craig Wright trial; testimony includes never-before-published correspondence with Satoshi Nakamoto”
-true
 comments: true
+---
 
 Dr Adam Back, inventor of proof-of-work system cited in the bitcoin White Paper, testifies against Dr Wright’s claims about who influenced Satoshi;
 Martti Malmi, a Finnish computer scientist who corresponded with Satoshi Nakamoto in 2009 and 2011, testifies that he “communicated with Satoshi, who I believe to be a different person to Dr. Wright”
