@@ -5,7 +5,7 @@ comments: true
 ---
 
 
- 
+
 This week is closing arguments in the seminal COPA v Craig Wright trial. The objective is to prove, once and for all, that Craig Wright is not Satoshi Nakamoto. On March 12, as part of closing statements, COPA outlined a number of important reasons why Dr Wright simply cannot be Satoshi Nakamoto. These points, outlined below, come in addition to a large number of arguments focusing on Wright’s <a href="https://www.opencrypto.org/2024-01-24-COPAvCraigWright/">fraud</a> and forgeries ‘<a href="https://www.opencrypto.org/2024-02-07-Trial-Recap-1/">on an industrial scale</a>’.
 
 Here’s the compendium of reasons why Wright is simply not Satoshi Nakamoto: 
