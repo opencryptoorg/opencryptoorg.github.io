@@ -11,9 +11,9 @@ Justice Mellor Rules That Craig Wright Is Not Satoshi Nakamoto in COPA v Wright 
 Today, Justice Mellor found that the evidence in the COPA v Wright trial was “overwhelming,” ruling that:
 
 1. Dr Wright is **not** the author of the Bitcoin White Paper.
-2. Dr Wright is not the person who adopted or operated under the pseudonym Satoshi Nakamoto from 2008 - 2011. 
-3. Dr Wright is not the person who created the Bitcoin System. 
-4. Dr Wright is not the author of the initial versions of the Bitcoin software.
+2. Dr Wright is **not** the person who adopted or operated under the pseudonym Satoshi Nakamoto from 2008 - 2011. 
+3. Dr Wright is **not** the person who created the Bitcoin System. 
+4. Dr Wright is **not** the author of the initial versions of the Bitcoin software.
 
 Justice Mellor commented: “Any further relief will be dealt with in my written judgement. I will extend time for filing any appellant's notice until 21 days after the form of order hearing, which will be appointed following the hand down of my written judgement.”
 
