@@ -7,7 +7,7 @@ comments: true
 _Black Star Investments, Block, BtcTurk, Chaincode, Coinbase, Human Rights Foundation, John Pfeffer and MicroStrategy all played a significant role in delivering the watershed moment for the open-source community_
 
 
-On Monday, May 20, Mr Justice Mellor handed down his [written judgment]([url](https://www.judiciary.uk/wp-content/uploads/2024/05/COPA-v-Wright-Judgment.pdf)) <a href="https://www.judiciary.uk/wp-content/uploads/2024/05/COPA-v-Wright-Judgment.pdf)" target="_blank">written judgment</a> in the COPA v Wright trial, concluding that every aspect of Craig Wright’s claims to be Satoshi Nakamoto, the author of the bitcoin white paper, are a lie.
+On Monday, May 20, Mr Justice Mellor handed down his <a href="https://www.judiciary.uk/wp-content/uploads/2024/05/COPA-v-Wright-Judgment.pdf)" target="_blank">written judgment</a> in the COPA v Wright trial, concluding that every aspect of Craig Wright’s claims to be Satoshi Nakamoto, the author of the bitcoin white paper, are a lie.
 
 This significant outcome – which means developers can continue their important work on the Bitcoin network – was made possible by consequential donations of time, funds and skills by COPA’s many donors. 
 
