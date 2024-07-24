@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK High Court seals Cøbra order: bitcoin whitepaper and software available in the UK for first time since June 2021
+title: UK High Court seals Cøbra order, bitcoin whitepaper and software available in the UK for first time since June 2021
 comments: true
 ---
 
